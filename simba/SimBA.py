@@ -6,6 +6,7 @@ import time
 import subprocess
 import itertools
 #import deeplabcut
+import tables
 import csv
 import sys
 from tkinter import *
